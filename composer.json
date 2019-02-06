@@ -1,5 +1,5 @@
 {
-    "name": "aboyadzhiev/php-math-parser",
+    "name": "inspirenmy/php-math-parser",
     "type": "library",
     "description": "Simple mathematical expression parser and calculator.",
     "keywords": ["math parser", "shunting-yard algorithm", "math calculator"],
